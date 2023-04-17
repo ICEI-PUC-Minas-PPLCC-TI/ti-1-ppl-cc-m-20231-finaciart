@@ -182,6 +182,8 @@ Ao final do projeto, esperamos que os usuários tenham uma plataforma confiável
 
 Os três membros do grupo dividem as suas funções de acordo com suas habilidades e personalidades. Vitor Silva é o Scrum Master,além de idealizador do projeto,sendo responsável  por liderar o grupo,fiscalizar se os papéis estão sendo cumpridos além de um importante papel na documentação. O Product Owner é o Fernando Theodoro,que já possui  conhecimentos e experiência na área administrativa,coordena as tarefas e funções e às registram em plataformas como o Trello. Já o Desenvolvimento está sendo gerenciado pelo Gabriel Rezende,que já possui bastante experiência com programação e em plataformas como Github,colocando em prática as idéias da equipe.
 
+https://trello.com/b/iflPTsCN/financiart
+
 ## Ferramentas
 
 | Ambiente  | Plataforma              |Link de Acesso |
