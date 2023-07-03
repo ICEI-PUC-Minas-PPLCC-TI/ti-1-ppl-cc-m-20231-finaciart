@@ -206,28 +206,35 @@ https://trello.com/b/iflPTsCN/financiart
 >Utilizamos o adobe para imagens e trello para organizar as tarefas predefinidas.
 >
 ## Controle de Versão
-> A ferramenta de controle de versão adotada no projeto foi o
-> [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
-> foi utilizado para hospedagem do repositório `financiart`.
-> 
-> O projeto segue a seguinte convenção para o nome de branchs:
-> 
-> - `master`: versão estável já testada do software
-> - `unstable`: versão já testada do software, porém instável
-> - `testing`: versão em testes do software
-> - `dev`: versão de desenvolvimento do software
-> 
-> Quanto à gerência de issues, o projeto adota a seguinte convenção para
-> etiquetas:
-> 
-> - `bugfix`: uma funcionalidade encontra-se com problemas
-> - `enhancement`: uma funcionalidade precisa ser melhorada
-> - `feature`: uma nova funcionalidade precisa ser introduzida
 
-
+ A ferramenta de controle de versão escolhida no projeto foi o
+ [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
+ foi utilizado para hospedagem do repositório `financiart`.
+ 
 # Projeto da Solução
 
-......  COLOQUE AQUI O SEU TEXTO ......
+## Tecnologias utilizadas
+| TIPO | NOME |
+|------|------|
+| Linguagem de marcação | HTML |
+| Linguagem de estilo | CSS |
+| Linguagem de programação | JavaScript |
+| Framework | Bootstrap |
+| Biblioteca | jQuery |
+| API | CoinGecko<br>AwesomeAPI |
+| IDE | Visual Studio Code |
+| Versionamento de código | Git |
+| Controle de versão compartilhado | GitHub |
+| Hospedagem | GitHub Pages |
+
+## Arquitetura da solução
+![UserFlow](codigo/)
+
+Assim que o usuário entra na plataforma, ele é apresentado a um questionário. O objetivo desse processo, é conhecer o usuário e aferir seu nível de conhecimento sobre o mercado.
+
+Depois de respondidas as perguntas, o usuário é redirecionado ao seu painel, onde encontra um *overview* da sua carteira, seu progresso de aprendizagem, eventos e notícias relacionados aos seus investimentos e artigos importantes sobre o mercado.
+
+![UserFlow](images/interface.jpg)
 
 ## Tecnologias Utilizadas
 
