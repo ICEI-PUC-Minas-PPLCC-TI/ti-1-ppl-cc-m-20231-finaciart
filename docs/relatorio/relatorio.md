@@ -228,87 +228,40 @@ https://trello.com/b/iflPTsCN/financiart
 | Hospedagem | Replit |
 
 ## Arquitetura da solução
-![UserFlow](images/calcular.png)
+
+Assim que o usuário entra na plataforma, ele necessário que ele faça login se ja possuir, se não, é preciso fazer o cadastro inicial. O objetivo desse processo, é encaminhar o usuário para a comunidade Financiart.
+
+Logo após isso, o usuário fica livre para escolher qual funcionalidade irá usufruir, sendo as principais delas:
+
+Uma página de gerenciamento financeiro, onde a pessoa conseguirá manter o controle das receitas e despesas com a ajuda de um gráfico e de ua lista de resgistros que ela mesmo fará.
 ![UserFlow](images/gerenciamento.jpg)
+
+Gráfico separado por categorias:
+
 ![UserFlow](images/grafico.png)
 
-Assim que o usuário entra na plataforma, ele é apresentado a um questionário. O objetivo desse processo, é conhecer o usuário e aferir seu nível de conhecimento sobre o mercado.
+Existe a possibilidade do usuário procurar saber quanto teria de retorno em um determindado investimento, por isso temos uma calculadora que fornece o retorno de acordo com as predefinições do usuário.
 
-Depois de respondidas as perguntas, o usuário é redirecionado ao seu painel, onde encontra um *overview* da sua carteira, seu progresso de aprendizagem, eventos e notícias relacionados aos seus investimentos e artigos importantes sobre o mercado.
+![UserFlow](images/calcular.png)
+
+Aba voltada para investimentos, onde o usuário consegue navegar por diversos setores, categorias e riscos, até encontrar o investimento ideal.
 
 ![UserFlow](images/investimentos.png)
+
+Página de notícias para sempre atualizar o usuário:
+
 ![UserFlow](images/noticias.jpeg)
-
-## Tecnologias Utilizadas
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
-> problema, ou seja, implementar a sua solução. Liste todas as
-> tecnologias envolvidas, linguagens a serem utilizadas, serviços web,
-> frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
-> Apresente também uma figura explicando como as tecnologias estão
-> relacionadas ou como uma interação do usuário com o sistema vai ser
-> conduzida, por onde ela passa até retornar uma resposta ao usuário.
-> 
-> Inclua os diagramas de User Flow, esboços criados pelo grupo
-> (stoyboards), além dos protótipos de telas (wireframes). Descreva cada
-> item textualmente comentando e complementando o que está apresentado
-> nas imagens.
-
-## Arquitetura da solução
-
-......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE ARQUITETURA .......
-
-> Inclua um diagrama da solução e descreva os módulos e as tecnologias
-> que fazem parte da solução. Discorra sobre o diagrama.
-> 
-> **Exemplo do diagrama de Arquitetura**:
-> 
-> ![Exemplo de Arquitetura](images/arquitetura-exemplo.png)
-
-
-# Avaliação da Aplicação
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente os cenários de testes utilizados na realização dos testes da
-> sua aplicação. Escolha cenários de testes que demonstrem os requisitos
-> sendo satisfeitos.
 
 ## Plano de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Enumere quais cenários de testes foram selecionados para teste. Neste
-> tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo
-> de usuários que foi escolhido para participar do teste e as
-> ferramentas utilizadas.
-> 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
-
-## Ferramentas de Testes (Opcional)
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Comente sobre as ferramentas de testes utilizadas.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
+| ID | CENÁRIO | REQUISITO RELACIONADO |
+|----|---------|-----------------------|
+| 1 | `Cadastrar um registro financeiro` <br><br> Passo a passo: <br> `1.` Fazer login <br> `2.` Abrir a aba acompanhar <br> `3.` Listar o item <br> `4.` Clicar no botão "Salvar registro" <br> `5.` Observar os resultados e a construção do gráfico <br> | RF-001 |
+| 2 | `Ver o desempenho dos investimentos` <br><br> Passo a passo: <br> `1.` Fazer login <br> `2.` Abrir a aba investimentos <br> `3.` Buscar um investimento desejado pela barra de pesquisa <br><br> | RF-003 |
 
 ## Registros de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Discorra sobre os resultados do teste. Ressaltando pontos fortes e
-> fracos identificados na solução. Comente como o grupo pretende atacar
-> esses pontos nas próximas iterações. Apresente as falhas detectadas e
-> as melhorias geradas a partir dos resultados obtidos nos testes.
-
+Os testes foram fundamentais para identificar falhas no desenvolvimento e na experiência do usuário, com eles tivemos a oportunidade de refatorar algumas partes do código, deixando ele limpo e funcional.
 
 # Referências
 
