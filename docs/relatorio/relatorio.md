@@ -266,11 +266,13 @@ Os testes foram fundamentais para identificar falhas no desenvolvimento e na exp
 
 # Referências
 
-......  COLOQUE AQUI O SEU TEXTO ......
+## Fontes utilizadas durante o projeto
 
-> Inclua todas as referências (livros, artigos, sites, etc) utilizados
-> no desenvolvimento do trabalho.
-> 
-> **Links Úteis**:
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
+> **B3**. A Descoberta da Bolsa Pelo Investidor Brasileiro https://www.b3.com.br/data/files/DE/47/57/09/B3866710D32004679C094EA8/Pesquisa%20PF_Apresentacao_final_11_12_20_.pdf
+
+## Aplicações utilizadas como referência para o projeto
+> **Investidor10**. Ações, cotações e indicadores Disponível em: https://investidor10.com.br/
+
+> **Status Invest**. Ações, fundos imobíliarios, ... Disponível em: https://statusinvest.com.br/
+
+> **Nuinvest**. Plataforma de investimentos Disponível em: https://www.nuinvest.com.br/
