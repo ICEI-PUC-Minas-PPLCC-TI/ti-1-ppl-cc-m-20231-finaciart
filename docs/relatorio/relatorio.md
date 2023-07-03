@@ -190,23 +190,21 @@ https://trello.com/b/iflPTsCN/financiart
 |-----------|-------------------------|---------------|
 |Processo de Design Thinkgin  | Miro |  https://miro.com/app/board/uXjVMYDTJcA=/ | 
 |Repositório de código | GitHub | https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m-20231-finaciart | 
-|Hospedagem do site | AWS |  *pendente* | 
+|Hospedagem do site | Replit |  https://financiart-2.vitorsilva64.repl.co/Financiart/financiart/html/home.html | 
 |Protótipo Interativo | Figma |  (https://www.figma.com/file/ZaEeyCCSmwGHb2qUdjBRHC/Wireframe-TI?node-id=0-1&t=bzBAIX5iDiGVfkHs-0) |   
 > As ferramentas empregadas no projeto são:
+> - Busca por imagens: Adobe e Google images
+> - Editor de código: Visual code e Replit
+> - Ferramentas de comunicação: Discord, trello, whatsapp
+> - Ferramentas de diagramação: Figma, miro
+> - Plataforma de hospedagem: Replit e GitHub
 > 
-> - Editor de código: Visual code
-> - Ferramentas de comunicação: Discord
-> - Ferramentas de diagramação: Figma
-> - Plataforma de hospedagem: AWS
-> 
->O uso do Visual Code é recomendado por ser um editor de código poderoso e versátil, com integração com várias linguagens de programação e recursos de formatação, >depuração e controle de versão.
+>Usamos na maioria do tempo o Visual Studio Code por sua capacidade como editor de código. Ele oferece integração com várias linguagens >de programação, além de recursos avançados de formatação, depuração e controle de versão.No fim do desenvolvimento passamos a utilizar >o Replit, por ser a plataforma escolhida para a Hospedagem do Site.
 >
->O Discord é uma ferramenta de comunicação em equipe que facilita o compartilhamento de informações e a colaboração em tempo real, com chat de voz e texto e a possibilidade de criar canais específicos para tópicos de discussão.
+>A diagramação e prototipagem ficou por conta do Figma, que é uma ferramenta de design de interface do usuário. Com recursos de >colaboração em tempo real, o Figma facilita a criação de protótipos interativos e designs visualmente atraentes.
 >
->Para diagramação e prototipagem, o Figma é uma ferramenta de design de interface do usuário (UI) com recursos de colaboração em tempo real e bibliotecas de componentes reutilizáveis.
+>Utilizamos o adobe para imagens e trello para organizar as tarefas predefinidas.
 >
->A plataforma de hospedagem AWS é altamente escalável e confiável, com uma ampla gama de serviços de hospedagem, incluindo servidores virtuais, bancos de dados e serviços de armazenamento, tornando-se uma excelente escolha para empresas que esperam crescer rapidamente.
-
 ## Controle de Versão
 > A ferramenta de controle de versão adotada no projeto foi o
 > [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
