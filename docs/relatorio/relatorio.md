@@ -220,21 +220,24 @@ https://trello.com/b/iflPTsCN/financiart
 | Linguagem de estilo | CSS |
 | Linguagem de programação | JavaScript |
 | Framework | Bootstrap |
-| Biblioteca | jQuery |
-| API | CoinGecko<br>AwesomeAPI |
-| IDE | Visual Studio Code |
+| Biblioteca | jQuery/SwiperJS |
+| API | News API |
+| IDE | Visual Studio Code/Replit |
 | Versionamento de código | Git |
 | Controle de versão compartilhado | GitHub |
-| Hospedagem | GitHub Pages |
+| Hospedagem | Replit |
 
 ## Arquitetura da solução
-![UserFlow](codigo/)
+![UserFlow](images/calcular.png)
+![UserFlow](images/gerenciamento.jpg)
+![UserFlow](images/grafico.png)
 
 Assim que o usuário entra na plataforma, ele é apresentado a um questionário. O objetivo desse processo, é conhecer o usuário e aferir seu nível de conhecimento sobre o mercado.
 
 Depois de respondidas as perguntas, o usuário é redirecionado ao seu painel, onde encontra um *overview* da sua carteira, seu progresso de aprendizagem, eventos e notícias relacionados aos seus investimentos e artigos importantes sobre o mercado.
 
-![UserFlow](images/interface.jpg)
+![UserFlow](images/investimentos.png)
+![UserFlow](images/noticias.jpeg)
 
 ## Tecnologias Utilizadas
 
