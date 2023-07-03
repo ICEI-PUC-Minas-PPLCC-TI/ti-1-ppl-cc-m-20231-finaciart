@@ -199,9 +199,9 @@ https://trello.com/b/iflPTsCN/financiart
 > - Ferramentas de diagramação: Figma, miro
 > - Plataforma de hospedagem: Replit e GitHub
 > 
->Usamos na maioria do tempo o Visual Studio Code por sua capacidade como editor de código. Ele oferece integração com várias linguagens >de programação, além de recursos avançados de formatação, depuração e controle de versão.No fim do desenvolvimento passamos a utilizar >o Replit, por ser a plataforma escolhida para a Hospedagem do Site.
+>Usamos na maioria do tempo o Visual Studio Code por sua capacidade como editor de código. Ele oferece integração com várias linguagens de programação, além de recursos avançados de formatação, depuração e controle de versão.No fim do desenvolvimento passamos a utilizar o Replit, por ser a plataforma escolhida para a Hospedagem do Site.
 >
->A diagramação e prototipagem ficou por conta do Figma, que é uma ferramenta de design de interface do usuário. Com recursos de >colaboração em tempo real, o Figma facilita a criação de protótipos interativos e designs visualmente atraentes.
+>A diagramação e prototipagem ficou por conta do Figma, que é uma ferramenta de design de interface do usuário. Com recursos de colaboração em tempo real, o Figma facilita a criação de protótipos interativos e designs visualmente atraentes.
 >
 >Utilizamos o adobe para imagens e trello para organizar as tarefas predefinidas.
 >
