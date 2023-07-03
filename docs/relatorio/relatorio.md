@@ -234,6 +234,7 @@ Assim que o usuário entra na plataforma, ele necessário que ele faça login se
 Logo após isso, o usuário fica livre para escolher qual funcionalidade irá usufruir, sendo as principais delas:
 
 Uma página de gerenciamento financeiro, onde a pessoa conseguirá manter o controle das receitas e despesas com a ajuda de um gráfico e de ua lista de resgistros que ela mesmo fará.
+
 ![UserFlow](images/gerenciamento.jpg)
 
 Gráfico separado por categorias:
